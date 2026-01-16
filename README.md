@@ -24,17 +24,14 @@ The final dashboard enables users to explore **publisher dominance, platform lif
 
 
 ## Architecture Overview
-Raw Data Files
-↓
-AWS S3 (Cloud Storage)
-↓
-Amazon Athena (Serverless SQL Query Engine)
-↓
-Simba Athena ODBC Connector
-↓
-Power BI Desktop / Power BI Service
-↓
-Interactive Business Dashboard
+
+Raw Data Files  
+⬇️ AWS S3 (Cloud Storage)  
+⬇️ Amazon Athena (Serverless SQL Query Engine)  
+⬇️ Simba Athena ODBC Connector  
+⬇️ Power BI Desktop / Power BI Service  
+⬇️ Interactive Business Dashboard
+
 
 ## Tech Stack
 
