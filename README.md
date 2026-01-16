@@ -1,7 +1,8 @@
 # 🎮 Video Game Sales Analytics Dashboard  
+
 **AWS S3 → Athena → Power BI End-to-End Data Analytics Project**
 
----
+
 ## Live Dashboard
 
 **Interactive Power BI Dashboard:**  
@@ -16,11 +17,11 @@
 ## Project Overview
 
 This project presents a full **cloud-based data analytics pipeline** that transforms raw video game sales data into an **interactive Power BI dashboard**.  
+
 The workflow integrates **AWS cloud services, SQL-based querying, data validation and cleaning, and business intelligence visualization.**
 
 The final dashboard enables users to explore **publisher dominance, platform lifecycle trends, regional performance, and genre-based insights** in a single interactive interface.
 
----
 
 ## Architecture Overview
 Raw Data Files
